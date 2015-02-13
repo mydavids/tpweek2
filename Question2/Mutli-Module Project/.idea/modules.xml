@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mutli-Module Project.iml" filepath="$PROJECT_DIR$/Mutli-Module Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comparenames/comparenames.iml" filepath="$PROJECT_DIR$/comparenames/comparenames.iml" />
+      <module fileurl="file://$PROJECT_DIR$/displaymenu/displaymenu.iml" filepath="$PROJECT_DIR$/displaymenu/displaymenu.iml" />
+    </modules>
+  </component>
+</project>
